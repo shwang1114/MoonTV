@@ -76,6 +76,46 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "u酷资源"
+    },
+    "wujin1": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "name": "无尽资源1"
+    },
+    "wulong": {
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "name": "卧龙资源"
+    },
+    "feifan": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "飞凡资源"
+    },
+    "sdzy": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "山东资源"
+    },
+    "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "蓝泽资源"
+    },
+    "hongniu": {
+      "api": "https://hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "subo": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "jxzy": {
+      "api": "https://jxzyw.top/api.php/provide/vod",
+      "name": "极速资源"
     }
   }
 }
